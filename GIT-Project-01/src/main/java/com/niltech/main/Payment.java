@@ -5,6 +5,7 @@ public class Payment {
 	public void doPayment() {
 		int amt=1000;
 		int with=500;
+		System.out.println("Transaction Successful.....");
 	}
 
 }
